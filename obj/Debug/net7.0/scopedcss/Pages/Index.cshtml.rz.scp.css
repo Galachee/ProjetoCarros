@@ -1,0 +1,39 @@
+p[b-kjfl98mzat]{
+    color: #1B2338;
+    font-weight: bold;
+}
+.titulo-card[b-kjfl98mzat]{
+    font-size: 20px;
+    font-style: italic;
+    color: white;
+    font-weight: bold;
+}
+.link-card[b-kjfl98mzat]{
+    color: white;
+    
+    font-weight: bold;
+}
+.card-bg[b-kjfl98mzat]{
+    background: #1B2338;
+    
+}
+.card-bg:hover[b-kjfl98mzat]{
+    background: white;
+    transition: transparent 0.3s ease;
+}
+
+.card-bg:hover a[b-kjfl98mzat],.card-bg:hover button[b-kjfl98mzat]{
+    color: black;
+    font-size: 24px;
+    font-weight: bolder;
+    transition: transparent 0.3s ease;
+}
+
+
+
+
+
+
+
+
+

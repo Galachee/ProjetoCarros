@@ -1,0 +1,39 @@
+﻿p{
+    color: #1B2338;
+    font-weight: bold;
+}
+.titulo-card{
+    font-size: 20px;
+    font-style: italic;
+    color: white;
+    font-weight: bold;
+}
+.link-card{
+    color: white;
+    
+    font-weight: bold;
+}
+.card-bg{
+    background: #1B2338;
+    
+}
+.card-bg:hover{
+    background: white;
+    transition: transparent 0.3s ease;
+}
+
+.card-bg:hover a,.card-bg:hover button{
+    color: black;
+    font-size: 24px;
+    font-weight: bolder;
+    transition: transparent 0.3s ease;
+}
+
+
+
+
+
+
+
+
+

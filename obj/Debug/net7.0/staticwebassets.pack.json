@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\vitor\\Documents\\ProjetoCarros\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ProjetoCarros.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProjetoCarros.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\vitor\\Documents\\ProjetoCarros\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\vitor\\Documents\\ProjetoCarros\\wwwroot\\img\\BM.png",
+      "PackagePath": "staticwebassets\\img\\BM.png"
+    },
+    {
+      "Id": "C:\\Users\\vitor\\Documents\\ProjetoCarros\\wwwroot\\img\\PorscheGt3.png",
+      "PackagePath": "staticwebassets\\img\\PorscheGt3.png"
+    },
+    {
+      "Id": "C:\\Users\\vitor\\Documents\\ProjetoCarros\\wwwroot\\img\\carrinho.png",
+      "PackagePath": "staticwebassets\\img\\carrinho.png"
+    },
+    {
+      "Id": "C:\\Users\\vitor\\Documents\\ProjetoCarros\\wwwroot\\img\\carro.png",
+      "PackagePath": "staticwebassets\\img\\carro.png"
+    },
+    {
+      "Id": "C:\\Users\\vitor\\Documents\\ProjetoCarros\\wwwroot\\img\\porsche-model.png",
+      "PackagePath": "staticwebassets\\img\\porsche-model.png"
+    },
+    {
+      "Id": "C:\\Users\\vitor\\Documents\\ProjetoCarros\\wwwroot\\img\\urus.png",
+      "PackagePath": "staticwebassets\\img\\urus.png"
+    },
+    {
+      "Id": "C:\\Users\\vitor\\Documents\\ProjetoCarros\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ProjetoCarros.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ProjetoCarros.props",
+      "PackagePath": "build\\ProjetoCarros.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ProjetoCarros.props",
+      "PackagePath": "buildMultiTargeting\\ProjetoCarros.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ProjetoCarros.props",
+      "PackagePath": "buildTransitive\\ProjetoCarros.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

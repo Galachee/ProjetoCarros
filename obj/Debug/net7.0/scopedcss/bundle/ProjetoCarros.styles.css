@@ -1,0 +1,68 @@
+/* _content/ProjetoCarros/Pages/About.cshtml.rz.scp.css */
+h1[b-7hreyfea8h]{
+    color:#2B811D;
+}
+h2[b-7hreyfea8h] {
+    color: darkgreen;
+}
+
+p[b-7hreyfea8h]{
+    color: white;
+}
+/* _content/ProjetoCarros/Pages/Cadastro.cshtml.rz.scp.css */
+.color-button[b-t5355zkyna] {
+    background-color: #38794B;
+    width: 100%;
+    color: white;
+}
+/* _content/ProjetoCarros/Pages/Index.cshtml.rz.scp.css */
+p[b-kjfl98mzat]{
+    color: #1B2338;
+    font-weight: bold;
+}
+.titulo-card[b-kjfl98mzat]{
+    font-size: 20px;
+    font-style: italic;
+    color: white;
+    font-weight: bold;
+}
+.link-card[b-kjfl98mzat]{
+    color: white;
+    
+    font-weight: bold;
+}
+.card-bg[b-kjfl98mzat]{
+    background: #1B2338;
+    
+}
+.card-bg:hover[b-kjfl98mzat]{
+    background: white;
+    transition: transparent 0.3s ease;
+}
+
+.card-bg:hover a[b-kjfl98mzat],.card-bg:hover button[b-kjfl98mzat]{
+    color: black;
+    font-size: 24px;
+    font-weight: bolder;
+    transition: transparent 0.3s ease;
+}
+
+
+
+
+
+
+
+
+
+/* _content/ProjetoCarros/Pages/Login.cshtml.rz.scp.css */
+.img-login[b-9a82x8lx0v] {
+    height: 50px;
+    width: 50px;
+}
+
+.color-button[b-9a82x8lx0v] {
+    background-color: #38794B;
+    width: 100%;
+    color: white;
+}
